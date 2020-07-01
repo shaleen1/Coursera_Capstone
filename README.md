@@ -10,4 +10,4 @@ This is a project in which I have analyzed universities in the United States by 
 -Report (Please read this to understand my process) <i>report.pdf</i>
 
 
-Please feel free to explore, enhance, expand, or otherwise contribute to this project. It is my hope that prospective university students can use an enhanced version of my idea to find suitable matches based on their college preferences.
+I have applied an MIT License, so please feel free to explore, enhance, expand, or otherwise contribute to this project. It is my hope that prospective university students can use an enhanced version of my idea to find suitable matches based on their college preferences.
