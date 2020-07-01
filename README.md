@@ -1,5 +1,5 @@
 ### Coursera Capstone Project
-This is a project in which I have analyzed universities by clustering them by their academic statistics and nearby venues. 
+This is a project in which I have analyzed universities in the United States by clustering them by their academic statistics and nearby venues. The dataset I used is from the IPEDS Data Center, which allowed me to modify the attributes and download the data as a CSV file.
 
 ### Guide
 -Preprocessed CSV with all attributes and samples: <i>uni_data.csv</i>
